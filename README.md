@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="center">🌱 I’m currently learning.....</h3>
 <br />
 <div align="center">
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<div align="center">![yunun0410's GitHub stats](https://github-readme-stats.vercel.app/api?username=min&show_icons=true&theme=ambient_gradient)</div>
+<div align="center">
+![yunun0410's GitHub stats](https://github-readme-stats.vercel.app/api?username=min&show_icons=true&theme=ambient_gradient)</div>
 
