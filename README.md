@@ -1,8 +1,8 @@
 <!-- 머리 -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=📫growing developer📫%20render&fontSize=90" />
 
-📫growing developer📫
+ㅌ
 
 <!--
 **yunun0410/yunun0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
