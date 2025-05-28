@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!-- 기술 스택 -->
 <h3 align="center"> 💻 Tech Stacks </h3>
 <br />
-<div align="center">
+<align="center">
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
+
 <!-- 공부 중 -->
 <h3 align="center">🌱 I’m currently learning.....</h3>
 <br />
