@@ -1,6 +1,6 @@
 <!-- 머리 -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=#fd7c93&height=300&section=header&text=growing%20developer&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=_fd7c93&height=300&section=header&text=growing%20developer&fontSize=90" />
 
 ㅌ
 
