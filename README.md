@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yunun0410show_icons=true&theme=ambient_gradient">
+<img src="https://github-readme-stats.vercel.app/api?username=yunun0410&show_icons=true&theme=ambient_gradient">
 </div>
 
